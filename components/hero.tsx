@@ -30,8 +30,8 @@ export default function Hero() {
                             Choose <span className='bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400'>Cade</span>
                         </h1>
                         <div className='max-w-3xl mx-auto'>
-                            <p className='text-xl text-gray-600 mb-8' data-aos='zoom-y-out' data-aos-delay='150'>
-                                [[YOUR COOL ONE LINER GOES HERE]]
+                            <p className="text-6xl font-bold tracking-tight text-white sm:text-7xl" style={{ fontFamily: 'Times New Roman, serif' }}>
+                                REALTOR, ENGINEER, INVESTOR
                             </p>
                             <div
                                 className='max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center'
