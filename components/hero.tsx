@@ -30,7 +30,7 @@ export default function Hero() {
                             Choose <span className='bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400'>Cade</span>
                         </h1>
                         <div className='max-w-3xl mx-auto'>
-                            <p className="text-6xl font-bold tracking-tight text-white sm:text-7xl" style={{ fontFamily: 'Times New Roman, serif' }}>
+                            <p className="text-3xl font-semibold tracking-tight text-gray-900 sm:text-4xl" style={{ fontFamily: 'Times New Roman, serif' }}>
                                 REALTOR, ENGINEER, INVESTOR
                             </p>
                             <div
