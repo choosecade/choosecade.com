@@ -26,11 +26,11 @@ export default function Hero() {
                 <div className='pt-32 pb-12 md:pt-40 md:pb-20'>
                     {/* Section header */}
                     <div className='text-center pb-12 md:pb-16'>
-                        <h1 className='text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4' data-aos='zoom-y-out'>
-                            Choose <span className='bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400'>Cade</span>
+                        <h1 className='text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4' data-aos='zoom-y-out'style={{ fontFamily: 'Times New Roman, serif', color: '#143671' }}>
+                            Choose <span style={{ color: '#143671' }}>Cade</span>
                         </h1>
                         <div className='max-w-3xl mx-auto'>
-                            <p className="text-3xl font-semibold tracking-tight text-gray-900 sm:text-4xl" style={{ fontFamily: 'Times New Roman, serif' }}>
+                            <p className="text-3xl font-semibold tracking-tight sm:text-4xl" style={{ fontFamily: 'Times New Roman, serif', color: '#143671' }}>
                                 REALTOR, ENGINEER, INVESTOR
                             </p>
                             <div
