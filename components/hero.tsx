@@ -15,8 +15,6 @@ export default function Hero() {
                         </linearGradient>
                     </defs>
                     <g fill='url(#illustration-01)' fillRule='evenodd'>
-                        <circle cx='1232' cy='128' r='128' />
-                        <circle cx='155' cy='443' r='64' />
                     </g>
                 </svg>
             </div>
