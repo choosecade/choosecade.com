@@ -60,7 +60,8 @@ export default function Header() {
                                 <Link
                                     href='https://www.google.com/forms/about/'
                                     target='_blank'
-                                    className='btn-sm text-gray-200 bg-gray-900 hover:bg-gray-800 ml-3'
+                                    className='btn-sm text-gray-200 ml-3'
+                                    style={{ backgroundColor: '#143671' }}
                                 >
                                     <span>Contact Me</span>
                                     <svg

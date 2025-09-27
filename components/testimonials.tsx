@@ -25,9 +25,9 @@ export default function Testimonials() {
                 <div className='py-12 md:py-20'>
                     {/* Section header */}
                     <div className='max-w-3xl mx-auto text-center pb-12 md:pb-16'>
-                        <h2 className='h2 mb-4'>Trusted by over 20,000 companies all over the world</h2>
+                        <h2 className='h2 mb-4'>A trusted local born and raised in Huntsville, AL</h2>
                         <p className='text-xl text-gray-600' data-aos='zoom-y-out'>
-                            Arcu cursus vitae congue mauris rhoncus viverra nibh cras pulvinar mattis blandit libero cursus mattis.
+                            But don't just take my word...
                         </p>
                     </div>
 
@@ -122,14 +122,13 @@ export default function Testimonials() {
                                     />
                                 </div>
                                 <blockquote className='text-xl font-medium mb-4'>
-                                    “ I love this product and would recommend it to anyone. Could be not easier to use, and our multiple
-                                    websites are wonderful. We get nice comments all the time. “
+                                    “Cade was a true joy to work with. He is one of the most transparent agents in the business which is appreciated these days. Cade picked up the phone and talked me through the details of the offer coming our way. He did the same thing with repairs and any additional concerns. We are in the day and age of texting and so much can get confused if the industry relied only on digital communication. He is not that agent. He’s professional and friendly. I learned a few tips and reminders myself after working with him. His clients are blessed to work with him and so was I.“
                                 </blockquote>
-                                <cite className='block font-bold text-lg not-italic mb-1'>Darya Finger</cite>
+                                <cite className='block font-bold text-lg not-italic mb-1'>Bev Gallegos</cite>
                                 <div className='text-gray-600'>
-                                    <span>CEO & Co-Founder</span>{' '}
+                                    <span>eXp Realty</span>{' '}
                                     <a className='text-blue-600 hover:underline' href='#0'>
-                                        @Dropbox
+                                        Realtor
                                     </a>
                                 </div>
                             </div>
