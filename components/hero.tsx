@@ -40,7 +40,7 @@ export default function Hero() {
                                     <a
                                         href='mailto:choosecade@gmail.com'
                                         target='_blank'
-                                        className='btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-15 sm:w-auto sm:mb-0 font bold'  style={{ fontFamily: 'Times New Roman, serif', color: '#ffffff' }}
+                                        className='btn text-white hover:opacity-90 w-full mb-15 sm:w-auto sm:mb-0 font bold'  style={{ fontFamily: 'Times New Roman, serif', color: '#ffffff', backgroundColor: '#143671' }}
                                     >
                                         📧 Email
                                     </a>
@@ -48,7 +48,7 @@ export default function Hero() {
                                 <div>
                                     <a
                                         href='tel:+12563848469'
-                                        className='btn text-white bg-green-600 hover:bg-green-700 w-full mb-15 sm:w-auto sm:mb-0 font bold'  style={{ fontFamily: 'Times New Roman, serif', color: '#ffffff' }}
+                                        className='btn text-white hover:opacity-90 w-full mb-15 sm:w-auto sm:mb-0 font bold'  style={{ fontFamily: 'Times New Roman, serif', color: '#ffffff', backgroundColor: '#143671' }}
                                     >
                                         📞 Call
                                     </a>
