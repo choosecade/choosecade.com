@@ -128,7 +128,7 @@ export default function Testimonials() {
                                 <div className='text-gray-600'>
                                     <span>eXp Realty</span>{' '}
                                     <a className='text-blue-600 hover:underline' href='#0'>
-                                        Realtor
+                                        
                                     </a>
                                 </div>
                             </div>
