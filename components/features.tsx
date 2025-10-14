@@ -74,7 +74,7 @@ export default function Features() {
                                 >
                                     <div>
                                         <div className='font-bold leading-snug tracking-tight mb-1'>Engineer</div>
-                                        <div className='text-gray-600'>Huntsville is known for its engineering and tech companies, and I can say I fall right into that category.I graduated from The University of Alabama with my Master's degree in Mechanical Engineering and got a job on Redstone Arsenal. </div>
+                                        <div className='text-gray-600'>Huntsville is known for its engineering / tech companies, and I can say I fall right into that bucket. I graduated from The University of Alabama with my Master's in Engineering and work on base at Redstone Arsenal. I am very detail-oriented and love running numbers, especially on home values. I'm always looking for deals and one of my biggest joys is saving my clients money! </div>
                                     </div>
                                     <div className='flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3'>
                                         <svg className='w-3 h-3 fill-current' viewBox='0 0 12 12' xmlns='http://www.w3.org/2000/svg'>
