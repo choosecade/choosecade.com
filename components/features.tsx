@@ -37,8 +37,8 @@ export default function Features() {
                         {/* Content */}
                         <div className='max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6' data-aos='fade-right'>
                             <div className='md:pr-4 lg:pr-12 xl:pr-16 mb-8'>
-                                <h3 className='h3 mb-3'>What makes me different from other agents</h3>
-                                <p className='text-xl text-gray-600'>[[subheader]]</p>
+                                <h3 className='h3 mb-3'>Focus in Huntsville, Madison, and surrounding areas</h3>
+                                <p className='text-xl text-gray-600'>Utmost market expertise + premier client experience</p>
                             </div>
                             {/* Tabs buttons */}
                             <div className='mb-8 md:mb-0'>
@@ -54,7 +54,7 @@ export default function Features() {
                                 >
                                     <div>
                                         <div className='font-bold leading-snug tracking-tight mb-1'>REALTOR &reg;</div>
-                                        <div className='text-gray-600'>[[description]]</div>
+                                        <div className='text-gray-600'>Born and raised in Huntsville, Alabama, I have lived here my entire life. I have a deep understanding of the local market and have seen its rapid growth firsthand. If you are looking to move to Rocket City, I can help you. And as an engineer, I can speak your language!</div>
                                     </div>
                                     <div className='flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3'>
                                         <svg className='w-3 h-3 fill-current' viewBox='0 0 12 12' xmlns='http://www.w3.org/2000/svg'>
@@ -74,7 +74,7 @@ export default function Features() {
                                 >
                                     <div>
                                         <div className='font-bold leading-snug tracking-tight mb-1'>Engineer</div>
-                                        <div className='text-gray-600'>[[description]]</div>
+                                        <div className='text-gray-600'>Huntsville is known for its engineering and tech companies, and I can say I fall right into that category.I graduated from The University of Alabama with my Master's degree in Mechanical Engineering and got a job on Redstone Arsenal. </div>
                                     </div>
                                     <div className='flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3'>
                                         <svg className='w-3 h-3 fill-current' viewBox='0 0 12 12' xmlns='http://www.w3.org/2000/svg'>
