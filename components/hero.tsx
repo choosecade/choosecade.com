@@ -38,7 +38,7 @@ export default function Hero() {
                             >
                                 <div>
                                     <a
-                                        href='https://www.google.com/forms/about/'
+                                        href='mailto:choosecade@gmail.com'
                                         target='_blank'
                                         className='btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-15 sm:w-auto sm:mb-0 font bold'  style={{ fontFamily: 'Times New Roman, serif', color: '#ffffff' }}
                                     >
