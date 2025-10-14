@@ -32,7 +32,7 @@ export default function Hero() {
                                 REALTOR, ENGINEER, INVESTOR
                             </p>
                             <div
-                                className='max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center'
+                                className='max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center gap-4'
                                 data-aos='zoom-y-out'
                                 data-aos-delay='300'
                             >
@@ -42,7 +42,15 @@ export default function Hero() {
                                         target='_blank'
                                         className='btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-15 sm:w-auto sm:mb-0 font bold'  style={{ fontFamily: 'Times New Roman, serif', color: '#ffffff' }}
                                     >
-                                        Choose Cade Today
+                                        📧 Email Me
+                                    </a>
+                                </div>
+                                <div>
+                                    <a
+                                        href='tel:+12563848469'
+                                        className='btn text-white bg-green-600 hover:bg-green-700 w-full mb-15 sm:w-auto sm:mb-0 font bold'  style={{ fontFamily: 'Times New Roman, serif', color: '#ffffff' }}
+                                    >
+                                        📞 Call Me
                                     </a>
                                 </div>
                             </div>
