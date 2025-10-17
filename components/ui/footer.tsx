@@ -86,7 +86,7 @@ export default function Footer() {
                             Get Started
                         </a> */}
                         <Link
-                            href='https://www.google.com/forms/about/'
+                            href='mailto:choosecade@gmail.com'
                             target='_blank'
                             className='btn-sm text-gray-200 bg-gray-900 hover:bg-gray-800 ml-3'
                         >

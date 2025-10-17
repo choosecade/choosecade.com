@@ -58,7 +58,7 @@ export default function Header() {
                             </li>
                             <li>
                                 <Link
-                                    href='tel:+12563848469'
+                                    href='mailto:choosecade@gmail.com'
                                     target='_blank'
                                     className='btn-sm text-gray-200 ml-3'
                                     style={{ backgroundColor: '#143671' }}
