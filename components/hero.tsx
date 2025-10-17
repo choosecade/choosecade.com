@@ -32,7 +32,7 @@ export default function Hero() {
                                 REALTOR®, ENGINEER, INVESTOR
                             </p>
                             <p className="text-sm font-bold mb-8" style={{ fontFamily: 'Times New Roman, serif', color: '#143671' }}>
-                                Dorsett Group Realty
+                                Dorsett Group Realty ™
                             </p>
                             <div
                                 className='max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center gap-4'
