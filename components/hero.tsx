@@ -28,8 +28,11 @@ export default function Hero() {
                             Choose <span style={{ color: '#143671' }}>Cade</span>
                         </h1>
                         <div className='max-w-3xl mx-auto'>
-                            <p className="text-3xl font-semibold tracking-tight sm:text-4xl mb-8" style={{ fontFamily: 'Times New Roman, serif', color: '#143671' }}>
-                                REALTOR, ENGINEER, INVESTOR
+                            <p className="text-3xl font-semibold tracking-tight sm:text-4xl mb-2" style={{ fontFamily: 'Times New Roman, serif', color: '#143671' }}>
+                                REALTOR®, ENGINEER, INVESTOR
+                            </p>
+                            <p className="text-sm font-bold mb-8" style={{ fontFamily: 'Times New Roman, serif', color: '#143671' }}>
+                                Dorsett Group Realty
                             </p>
                             <div
                                 className='max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center gap-4'
