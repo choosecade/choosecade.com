@@ -116,8 +116,8 @@ export default function Testimonials() {
                                     <Image
                                         className='relative rounded-full'
                                         src={TestimonialImage}
-                                        width={96}
-                                        height={96}
+                                        width={80}
+                                        height={92}
                                         alt='Testimonial 01'
                                     />
                                 </div>
